@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyGoals</string>
+    <string name="completed">Completed</string>
+    <string name="next">Next</string>
+
+    <string name="goal_1">I AM a web developer extraordinaire</string>
+    <string name="goal_2">I AM an Android Developer</string>
+    <string name="goal_3">I AM in a well paying job</string>
+    <string name="goal_4">I AM committed to getting better</string>
+    <string name="goal_5">I AM have mastery over PHP, Wordpress, android programming and oracle</string>
+    <string name="goal_6">I AM committed to studying wealth creation</string>
+    <string name="goal_7">I AM committed to reading books everyday for at least an hour</string>
+    <string name="goal_8">I AM committed to God in prayer and study of his word</string>
+    <string name="goal_9">I AM a chapter from proverbs everyday for wisdom and i read five chapters from the bible everyday</string>
+    <string name="goal_10">I AM a prayer warrior who prays at least an hour everyday before sleep</string>
+</resources>
